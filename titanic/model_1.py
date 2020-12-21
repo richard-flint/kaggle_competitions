@@ -3,6 +3,13 @@
 Spyder Editor
 
 This is a temporary script file.
+
+Summary: This is a script that attempts to predict survivors from Titanic.
+This is the introductory Kaggle competition.
+
+See https://www.kaggle.com/c/titanic
+
+Note: This is currently a work in progress (WIP) and is incomplete.
 """
 
 #************************#

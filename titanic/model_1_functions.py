@@ -6,8 +6,6 @@ Created on Sat Dec  5 21:32:39 2020
 """
 
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 
 def sigmoid(z):
     g=1/(1+np.exp(-z))
